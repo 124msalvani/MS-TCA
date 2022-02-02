@@ -1,0 +1,63 @@
+.container,
+h2 {
+  min-height: 200px;
+  font-family: "Raleway", sans-serif;
+}
+.has-bg-img {
+  background: url(../img/pokemon28.jpg) no-repeat center center fixed;
+  border-color: #904e55;
+  border-width: 20px;
+  border-radius: 20px;
+}
+
+.bg-light-green {
+  background-color: #e4fde1;
+}
+
+.bg-greeny {
+  background-color: #e75a7c;
+}
+
+a:link {
+  color: #274029;
+}
+
+/* visited link */
+a:visited {
+  color: #274029;
+}
+
+/* mouse over link */
+a:hover {
+  color: #315c2b;
+}
+
+#ClickHere {
+  background-color: #e4fde1;
+  border-radius: 50px;
+  height: 45px;
+}
+
+#NotGreen {
+  width: 200px;
+  color: black;
+  padding-top: 10px;
+}
+
+#disclaimer {
+  min-height: 50px;
+}
+
+.container h1 {
+  min-height: 200px;
+  font-size: 55px;
+  font-family: "Sedgwick Ave", cursive;
+}
+
+#logotime {
+  max-width: 10%;
+  height: auto;
+}
+
+font-family: "Raleway", sans-serif;
+font-family: "Sedgwick Ave", cursive;
