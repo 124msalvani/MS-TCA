@@ -59,5 +59,61 @@ a:hover {
   height: auto;
 }
 
+.halfheight{
+  max-width: 50%;
+  height: auto;
+}
+
+
+/* Color swatches */
+
+#color-swatches {
+	font-size: 0;
+	margin-bottom: 1.5rem;
+}
+.swatch {
+	border: 1px solid #bbb;
+	display: inline-block;
+	width: 22%;
+	height: 40px;
+	margin: 0;
+	margin-right: calc( 4% - 3px );
+	cursor: pointer;
+}
+.swatch:last-child {
+	margin-right: 0;
+}
+.swatch#beige {
+	background-color: #d9d1c7;
+}
+.swatch#yellow {
+	background-color: #ffcd69;
+}
+.swatch#blue {
+	background-color: #202bc2;
+}
+.swatch#cyan {
+	background-color: #8ff1f2;
+}
+.swatch#red {
+	background-color: #ff8282;
+}
+.swatch#orange {
+	background-color: #d57f15;
+}
+.swatch#brown {
+	background-color: #472803;
+}
+.swatch#green {
+	background-color: #09892f;
+}
+.swatch#purple {
+	background-color: #7215d5;
+}
+.selected {
+	border-color: #000;
+}
+
+
 font-family: "Raleway", sans-serif;
 font-family: "Sedgwick Ave", cursive;
