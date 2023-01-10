@@ -59,6 +59,11 @@ a:hover {
   height: auto;
 }
 
+.testheight{
+  height: 300px;
+}
+
+
 .halfheight{
   max-width: 50%;
   height: auto;
@@ -109,6 +114,39 @@ a:hover {
 }
 .swatch#purple {
 	background-color: #7215d5;
+}
+.swatch#white {
+	background-color: #ffffff;
+}
+.swatch#scarlet {
+	background-color: #de3806;
+}
+.swatch#gold {
+	background-color: #898909;
+}
+.swatch#lightblue {
+	background-color: #75b4f3;
+}
+.swatch#lime {
+	background-color: #0b922a;
+}
+.swatch#black {
+	background-color: #0b0b0b;
+}
+.swatch#pink {
+	background-color: #a91c65;
+}
+.swatch#pink2 {
+	background-color: #e737de;
+}
+.swatch#pink3 {
+	background-color: #fcadee;
+}
+.swatch#orange2 {
+	background-color: #ca6e2b;
+}
+.swatch#red2 {
+	background-color: #bb0909;
 }
 .selected {
 	border-color: #000;
